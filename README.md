@@ -1,6 +1,6 @@
 
-# This project is hosted Live at 
-[Click here](https://dreamy-hypatia-5c9924.netlify.app/).
+# This project is hosted Live at Netlify 
+[Live React App](https://dreamy-hypatia-5c9924.netlify.app/).
 
 
 
