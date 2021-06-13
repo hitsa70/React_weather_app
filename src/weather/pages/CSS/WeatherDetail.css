@@ -1,0 +1,19 @@
+.card {
+  margin: 5vw 20vw;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow: hidden;
+  background: white;
+}
+
+input {
+  margin: 5vw 0vw 0vw 0vw;
+  padding: 0.2em 0.5em;
+  border-radius: 0.5vw;
+}
+
+p {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
